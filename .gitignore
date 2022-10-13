@@ -2,3 +2,5 @@
 /mavenweb/.settings
 /.metadata
 /Servers
+/*.classpath
+/.project
